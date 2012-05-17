@@ -1,0 +1,20 @@
+This repository contains shellcodes I've written for linux/x86, as well as any that I may write in the future.
+
+For the latest version, see https://github.com/ikotler/shellcode
+
+Contributing
+------------
+
+If you found any bug please use Github's issue tracker to report it.
+Pull requests are always welcomed if you also want to help me fix it.
+
+License
+-------
+
+All shellcodes and utilities are released under MIT license.
+Please see LICENSE file for more information.
+
+Credit
+------
+
+Itzik Kotler <ik@ikotler.org>
